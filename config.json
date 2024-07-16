@@ -41,7 +41,9 @@
       "name": "Others",
       "links": [
         { "name": "Gmail", "url": "http://gmail.com/" },
-        { "name": "Coolors", "url": "https://coolors.co/" }
+        { "name": "Coolors", "url": "https://coolors.co" },
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Gemini", "url": "https://gemini.google.com/app" }
       ]
     }
   ],
