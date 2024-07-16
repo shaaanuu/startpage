@@ -55,7 +55,7 @@
   "disableMessage": true,
   "disableDate": false,
   "disableSearchBar": false,
-  "disable24Hour": false,
+  "disable24Hour": true,
   "disableWeather": true,
   "timeZone": "Asia/Kolkata",
   "weatherConf": {
