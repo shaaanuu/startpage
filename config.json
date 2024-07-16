@@ -6,11 +6,10 @@
       "links": [
         { "name": "Spotify", "url": "https://open.spotify.com/" },
         {
-          "name": "YoutubeMusic",
+          "name": "Youtube Music",
           "url": "https://music.youtube.com/",
           "newTab": false
         },
-        { "name": "Netflix", "url": "https://netflix.com" },
         { "name": "Youtube", "url": "https://youtube.com" }
       ]
     },
@@ -19,7 +18,7 @@
       "color": "#94e2d5",
       "links": [
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
+        { "name": "Vercel", "url": "http://vercel.com/" },
         { "name": "localhost", "url": "http://localhost:8000/" }
       ]
     },
@@ -28,23 +27,21 @@
       "links": [
         { "name": "Reddit", "url": "https://reddit.com" },
         {
-          "name": "Unixporn Love",
-          "url": "https://deepjyoti30.github.io/unixporn-love/"
+          "name": "Instagram",
+          "url": "https://instagram.com"
         },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
+        { "name": "Twitter", "url": "https://x.com" },
         {
-          "name": "r/mk",
-          "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+          "name": "Whatsapp",
+          "url": "https://web.whatsapp.com/"
         }
       ]
     },
     {
       "name": "Others",
       "links": [
-        { "name": "Material Colors", "url": "http://materialuicolors.co/" },
         { "name": "Gmail", "url": "http://gmail.com/" },
-        { "name": "neo4j Local", "url": "http://localhost:7474/" },
-        { "name": "rarbg", "url": "http://rarbg.to" }
+        { "name": "Coolors", "url": "https://coolors.co/" }
       ]
     }
   ],
@@ -69,7 +66,7 @@
     "dateColor": "#d9d9d9",
     "lineColor": "#fff",
     "weatherColor": "#d9d9d9",
-    "searchColor": "#fff",
+    "searchColor": "",
     "searchBackgroundColor": "#181825",
     "squareColor": "#9e9e9e",
     "squareBackgroundColor": "#2e2e2e",
